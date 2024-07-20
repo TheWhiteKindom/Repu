@@ -1,0 +1,43 @@
+.header{
+    padding: 0px 200px;
+    align-items: center;
+    display: flex;
+    justify-content: space-between;
+}
+button{
+    border-radius: 6px;
+}
+.footer{
+    padding: 200px 665px;
+    
+}
+.Logo{
+    padding: 0px 650px;
+    align-items: center;
+    display: flex;
+    justify-content: space-between;
+
+}
+.header1{
+    padding: 0px 200px;
+    align-items: center;
+    display: flex;
+    justify-content: space-between;
+}
+.cocoa{
+    display: flex;
+    justify-content: center;
+}
+.header2{
+    padding: 0px 200px;
+    align-items: center;
+    display: flex;
+    justify-content: space-between;
+}
+.header3{
+    padding: 0px 200px;
+    align-items: center;
+    display: flex;
+    justify-content: space-between;
+}
+
